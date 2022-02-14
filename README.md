@@ -6,7 +6,7 @@ We were given the opportunity to utilize Tableau to more effectively visualize C
 ## Results
 1. In the first visualization, we determine trip duration for total bike population.  It appears as though the majority of purchases only last for a few minutes.  Very rarely do the trip durations last for over an hour.
 
-![]("https://github.com/WIPartain/CitiBike/blob/main/images/tableau1.png")
+![](https://github.com/WIPartain/CitiBike/blob/main/images/tableau1.png)
 
 2. In the second visualization, we break down trip durations by gender.  We can see that the majority of riders are male, but each gender seems to follow the same trends regarding trip duration.  Very rarely do these trips last longer than an hour.
 
@@ -35,4 +35,4 @@ We were given the opportunity to utilize Tableau to more effectively visualize C
 
 ## Summary
 Tableau is an excellent option for visualization, and we were able to make a few determinations based on our data and the visualizations we produced.  The majority of our customers are subscribers as opposed to one time customers.  Our subscribers are mostly male, however our female customers follow similar patterns to the male customers in terms of trip duration and time of day.  I would like to also determine subscriber vs customer density in certain geographic locations to increase bike density in high traffic areas.  After determining this information, I would also like to dig into age of our subscribers to see if we can more effectively market our services.
-[Link_To_Storu](https://public.tableau.com/app/profile/wipartain/viz/bikesharing_16447206098460/Story1?publish=yes)
+[Link_To_Story](https://public.tableau.com/app/profile/wipartain/viz/bikesharing_16447206098460/Story1?publish=yes)
